@@ -1,3 +1,4 @@
+[İnsertion Sort projesi.docx](https://github.com/sinemyagmur/Insertion-Sort-Projesi/files/9882729/Insertion.Sort.projesi.docx)
 # Insertion-Sort-Projesi
 Proje 1
 [22,27,16,2,18,6] -> Insertion Sort
